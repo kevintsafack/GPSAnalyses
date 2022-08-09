@@ -1,8 +1,8 @@
 import streamlit as st
 import sys
 sys.path.append('C:/Users/TSAFACK_KevinHulric_/Desktop/t/pages/kev_1/')
-from dataset import DataSet
-from dataset import Uplaodss
+from dataset import *
+#from dataset import Uplaodss
 from Filtrage import *
 from distance import *
 from vitesse import *
